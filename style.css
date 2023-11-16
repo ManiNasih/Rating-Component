@@ -28,6 +28,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     background-color: var(--Very-Dark-Blue);
+    overflow: hidden;
 }
 
 .wrapper--1 {
